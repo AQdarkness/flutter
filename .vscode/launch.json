@@ -8,7 +8,7 @@
             "name": "Launchwithchrome",
             "type": "dart",
             "request": "launch",
-            "program": "lib/loginpage.dart",
+            "program": "lib/home.dart",
             "args": [
                 "-d",
                 "chrome"

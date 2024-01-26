@@ -7,6 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:loginpage/forgetpass.dart';
 // import 'package:loginpage/main.dart';
 import 'package:loginpage/loginpage.dart';
 
